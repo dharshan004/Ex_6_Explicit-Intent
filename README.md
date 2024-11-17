@@ -10,11 +10,12 @@ To create a two screens , first screen will take one number input from user. Aft
 
 Latest Version Android Studio
 
+
 ## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as “contentprovider″ and click Next.
+Step 2: Then type the Application name as “contentprovider″ and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -27,15 +28,19 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 
+## MainActivity.java:
+
+
+
+
 ## PROGRAM:
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: dharshan s
+Developed by: dharshan s 
 Registeration Number : 212222040036
 */
 ```
-
 ## Activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -90,8 +95,8 @@ Registeration Number : 212222040036
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.622" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
 
+```
 ## Activity_Second.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -136,6 +141,7 @@ Registeration Number : 212222040036
         app:layout_constraintVertical_bias="0.45" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 
 ## MainActivity.java
 ```
@@ -240,11 +246,19 @@ public class SecondActivity extends AppCompatActivity {
 </manifest>
 ```
 
+
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/11f43c48-c0d3-4236-9061-520869c34715)
 
-![image](https://github.com/user-attachments/assets/5c4aaa92-6f20-42d8-ab9c-48eef3dd12b2)
+![Screenshot 2024-09-30 143629](https://github.com/user-attachments/assets/a6f54290-6f76-4cbc-a1b3-abee10f3d4d4)
+
+
+
+![Screenshot 2024-09-30 143658](https://github.com/user-attachments/assets/e572f905-099a-4b75-b9ee-4855812b7cba)
+
+
+
+
 
 
 ## RESULT
